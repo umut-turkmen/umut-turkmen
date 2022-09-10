@@ -1,4 +1,7 @@
-BEGİNNER C# DEVELOPER 😎 UMUT TÜRKMEN
+## JUNİOR C# DEVELOPER 😎 UMUT TÜRKMEN
+<h2> <strong>Hi,I'm Umut. I am a high school student in Türkiye. C# is my first language. I wanna improve myself in this sector.😁<strong> <h2>
+
+
 
 ⬇️⬇️⬇️ MY ACCOUNTS ⬇️⬇️⬇️
 
@@ -8,8 +11,15 @@ BEGİNNER C# DEVELOPER 😎 UMUT TÜRKMEN
 
 
 
+📧How to reach me: ***umuturkmenn28@gmail.com***
+ 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=umut-turkmen.umut-turkmen)](#)
+
+
+
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=umut-turkmen&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umut-turkmen&theme=radical)](https://github.com/umut-turkmen/github-readme-stats)
 
 
