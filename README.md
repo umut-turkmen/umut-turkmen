@@ -1,5 +1,5 @@
-## JUNİOR DEVELOPER 😎 UMUT TÜRKMEN
-<h2> <strong>Hi,I'm Umut. I am a high school student in Türkiye. I want to improve myself in this sector.😁<strong> <h2>
+## UMUT TÜRKMEN
+
 
 
 
